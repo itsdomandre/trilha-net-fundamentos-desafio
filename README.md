@@ -1,15 +1,9 @@
 # trilha-net-fundamentos-desafio
-Desafio - Estacionamento desenvolvido em C# utilizando os conceitos do bootcamp Avanade 2024
+Challenge - Parking developed in C# using concepts from the Avanade 2024 bootcamp
 
-O que é possível realizar no programa:
-1 - Cadastrar veículos / por placa
-2 - Listar as placas dos veículos cadastrados
-3 - Remover veículos 
+What can be done in the program: 1 - Register vehicles / by license plate 2 - List the license plates of registered vehicles 3 - Remove vehicles
 
-
-- Ao abrir o programa, é necessário indicar o valor inicial no momento que o carro é estacionado;
-- Configurar o valor hora do estacionamento;
-- Ao remover o veículo, é necessário informar quantas horas o carro ficou estacionado;
-- O veículo é removido e é informado o saldo devedor do cliente.
-
-  
+1 - When opening the program, it is necessary to indicate the initial value at the time the car is parked;
+2 - Configure the hourly price for parking;
+3 - When removing the vehicle, it is necessary to inform how many hours the car was parked;
+4 - The vehicle is removed and the customer's outstanding balance is informed.
